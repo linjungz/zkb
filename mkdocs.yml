@@ -1,6 +1,1 @@
 site_name: 玩转掌控板
-
-# Build PDF & ePub
-formats:
-  - epub
-  - pdf
