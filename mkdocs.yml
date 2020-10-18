@@ -1,1 +1,5 @@
-site_name: 玩转掌控板
+site_name: test
+
+theme:
+  name: readthedocs
+  language: zh
